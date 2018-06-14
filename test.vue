@@ -1,5 +1,5 @@
 <template>
-  <div v-if-"iftrue">test</div>
+  <div v-if="iftrue">test</div>
 </template>
 <script>
   export default{
